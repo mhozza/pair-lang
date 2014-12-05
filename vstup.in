@@ -1,0 +1,13 @@
+a = 4
+b = 7
+c = (a, b)
+d = (c, c)
+
+a
+b
+c
+d
+
+first(c)
+second(d)
+first(second(d))
